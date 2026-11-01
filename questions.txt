@@ -1,0 +1,67 @@
+# TypeTree question bank
+# Format (one question per line):
+#   DIMENSION | question | option a | option b
+# DIMENSION is one of EI, SN, TF, JP.
+# Option a leans towards the FIRST letter (E, S, T, J),
+# option b leans towards the SECOND letter (I, N, F, P).
+# Lines starting with # and blank lines are ignored.
+# Each dimension needs at least 3 questions.
+
+EI | When you walk into a room full of people you don't know, you usually... | start introducing yourself | wait for someone to come to you
+EI | You are the first to arrive for a group dinner. At the next table, a big group starts singing "Happy Birthday". You... | join in loudly - the more the merrier | suddenly become very interested in the menu
+EI | After a long week, you recharge by... | going out with friends | spending quiet time alone
+EI | In group discussions, you tend to... | think out loud and speak up early | listen first and speak after reflecting
+EI | You prefer to work... | in a team with lots of interaction | independently with deep focus
+EI | On a free Saturday, you would rather... | join a big group activity | enjoy a hobby at home
+EI | When you have exciting news, you... | tell lots of people straight away | share it with one or two close people
+EI | The barista calls out your coffee order with your name spelt completely wrong. You... | laugh, correct them, and end up chatting for five minutes | quietly take the cup and accept your new name for the day
+EI | Your friends would describe you as... | lively and easy to get to know | calm and harder to read at first
+EI | At the supermarket, you spot a classmate you sort of know, two aisles away. You... | wave and walk over to say hi | take the long way round through the frozen food section
+EI | When solving a problem, you prefer to... | talk it through with others | think it over on your own first
+EI | In a lecture or meeting, you are more likely to... | ask questions out loud | note questions down and look them up later
+EI | A week full of social events makes you feel... | energised | drained
+EI | A stranger walking towards you suddenly smiles and starts chatting with you. You think... | "What an interesting person!" | "Oh my god, someone save me."
+EI | In a crowded lift where everyone is standing in silence, you are thinking... | "Everyone is so quiet. Maybe I should crack a joke." | "This lift is so slow. I just want to get out."
+
+SN | When learning something new, you prefer... | concrete examples and step-by-step instructions | the big picture and underlying concepts
+SN | Lying on the grass, your friend points at the sky and says, "That cloud looks like something!" You think... | "It looks like... a cloud." | "That is clearly a dragon eating a croissant."
+SN | You tend to trust... | past experience and facts | intuition and future possibilities
+SN | When describing an event, you focus on... | what actually happened, in detail | what it meant and what it could lead to
+SN | When following a recipe, you... | stick to the measurements | improvise once you get the idea
+SN | At 3am, you hear a strange noise coming from the kitchen. You think... | "Probably the fridge. Back to sleep." | by the time you get out of bed, you have already written a full horror movie in your head
+SN | You are more interested in... | how things work right now | how things could be in the future
+SN | In a new job, you would first want to know... | the exact tasks and procedures | the overall vision and goals
+SN | You are better at noticing... | small details others miss | patterns and connections others miss
+SN | When reading instructions, you... | read them carefully in order | skim and work it out as you go
+SN | You prefer conversations about... | real events and practical topics | ideas, theories and "what ifs"
+SN | People see you more as... | down-to-earth | imaginative
+SN | While you are jogging on the footpath, the wind knocks a fruit off a tree and it hits you on the forehead. Apart from the pain, you think... | "Why are there so many of these trees around here? It really is windy today - the forecast was spot on." | "What are the odds of that? Has the universe chosen me?"
+SN | You win the lottery and suddenly have a huge amount of money. You... | check the winning numbers more than five times, work out the exact amount after tax, and put the ticket somewhere safe | feel your brain explode as you imagine countless versions of your life, so excited that you cannot sleep
+
+TF | Your group is choosing a restaurant. One friend insists on a place with terrible reviews, because it is where they had their first date. You... | show everyone the 2.1-star rating and suggest somewhere better | go along with it, because the memories matter more than the food
+TF | When making a tough decision, you rely more on... | logic and objective analysis | values and how people will be affected
+TF | When a friend shares a problem, your first instinct is to... | analyse it and suggest solutions | listen and offer emotional support
+TF | Your friend proudly shows you a painting they spent a whole month on. Honestly, it is not great. You say... | "The colours work, but the proportions are a bit off. Want some tips?" | "I love it! You can really see how much effort you put in."
+TF | You would rather be seen as... | fair and competent | kind and understanding
+TF | When giving feedback, you focus on... | being accurate, even if it stings | being encouraging, even if less direct
+TF | In a debate, you care more about... | finding the right answer | keeping everyone on good terms
+TF | A good leader should mainly be... | consistent and rational | caring and supportive
+TF | When someone breaks a rule for a good reason, you think... | the rule should still apply equally | the circumstances should be considered
+TF | You are more convinced by... | data and evidence | personal stories and experiences
+TF | When choosing between job offers, you weigh up... | salary, prospects and the numbers | the people and how the work feels
+TF | When your work is criticised, you first think about... | whether the point is correct | how the other person sees you
+TF | Your flatmate comes home in tears, holding a box of cake, and says they were so upset they went out to buy something sweet. You say... | "Which shop is that cake from?" | "Oh no, what happened? Are you okay?"
+
+JP | You and your friends are flying overseas for a holiday tomorrow. Tonight, you... | double-check that everything is packed and ready | start thinking about what to wear tomorrow
+JP | Your approach to deadlines is... | finish early, following a plan | work in bursts, often close to the deadline
+JP | You arrive at an all-you-can-eat buffet. You... | walk around the whole buffet first and plan your plates | grab whatever looks good as you go
+JP | A friend texts you: "Free tonight? Let's do something!" You reply... | "Sure! What time, where, and what's the plan?" | "Sure! Let's just meet up and see what happens."
+JP | On holiday, you prefer... | a planned itinerary | going with the flow
+JP | Your workspace is usually... | organised and tidy | flexible, with a bit of creative chaos
+JP | You feel more comfortable when... | decisions are made and settled | options are kept open
+JP | Your weekly schedule is usually... | planned in a calendar | decided day by day
+JP | When plans suddenly change, you feel... | annoyed and want to re-plan | fine, even excited
+JP | You like to... | finish one task before starting another | juggle several tasks at once
+JP | When shopping for something big, you... | research and decide quickly | keep browsing in case something better appears
+JP | To-do lists are... | essential to how you work | something you rarely use
+JP | When arriving at an event, you are usually... | early or right on time | a little late, but it works out
